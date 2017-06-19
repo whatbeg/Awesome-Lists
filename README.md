@@ -3,8 +3,8 @@ Awesome Lists of Qiu. in computer science and engineering.
 
 ## Categories
 
-### [Recommender System](Recommender System.md)
+* Recommender System
 
-### Large Scale Machine Learning or Deep Learning
+* Large Scale Machine Learning or Deep Learning
 
-### Hyper-parameter Optimization
+* Hyper-parameter Optimization
