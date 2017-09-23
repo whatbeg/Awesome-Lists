@@ -11,3 +11,6 @@ Awesome Lists of Qiu. in computer science and engineering.
 
 ### [**Optimization**](./Optimization.md)
 
+### Paper Reading List
+
+* [NIPS 2017 Reading List](./NIPS-2017-Reading-List.md)
