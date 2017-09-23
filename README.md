@@ -14,3 +14,4 @@ Awesome Lists of Qiu. in computer science and engineering.
 ### Paper Reading List
 
 * [NIPS 2017 Reading List](./NIPS-2017-Reading-List.md)
+* [NIPS 2016 Reading List](./NIPS-2016-Reading-List.md)
