@@ -15,3 +15,4 @@ Awesome Lists of Qiu. in computer science and engineering.
 
 * [NIPS 2017 Reading List](./NIPS-2017-Reading-List.md)
 * [NIPS 2016 Reading List](./NIPS-2016-Reading-List.md)
+* [SIGKDD 2016-2017 Reading List](./SIGKDD16-17.md)
