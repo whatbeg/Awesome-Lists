@@ -1,9 +1,9 @@
 ## SIGKDD 2017
 
-* KunPeng: Parameter Server based Distributed Learning Systemsand Its Applications in Alibaba and Ant Financial
+* **KunPeng: Parameter Server based Distributed Learning Systemsand Its Applications in Alibaba and Ant Financial**
 Jun Zhou, Xiaolong Li, Peilin Zhao, Chaochao Chen, Longfei Li, Xinxing Yang, Qing Cui,Jin Yu, Xu Chen, Yi Ding, Yuan Alan Qi
 
-* Small Batch or Large Batch?Gaussian Walk with Rebound Can Teach
+* **Small Batch or Large Batch?Gaussian Walk with Rebound Can Teach**
 Peifeng Yin, Ping Luo, Taiga Nakamura
 
 
@@ -18,7 +18,7 @@ Yingyu Liang*, Princeton University; Bo Xie, ; David Woodruff, IBM Research; Le 
 * Robust Large-Scale Machine Learning in the Cloud
 Author(s): Steffen Rendle*, Google; Dennis Fetterly, Google, Inc.; Eugene Shekita, Google, Inc.; Bor-Yiing Su, Google, Inc.
 
-* XGBoost: A Scalable Tree Boosting System
+* **XGBoost: A Scalable Tree Boosting System**
 Author(s): Tianqi Chen*, University of washington; Carlos Guestrin, Dato/Univ of Washington
 
 * “Why Should I Trust you?” Explaining the Predictions of Any Classifier
