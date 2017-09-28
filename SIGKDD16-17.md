@@ -6,6 +6,9 @@ Jun Zhou, Xiaolong Li, Peilin Zhao, Chaochao Chen, Longfei Li, Xinxing Yang, Qin
 * **Small Batch or Large Batch?Gaussian Walk with Rebound Can Teach**
 Peifeng Yin, Ping Luo, Taiga Nakamura
 
+* **Google Vizier: A Service for Black-Box Optimization**
+Daniel Golovin (Google, Inc.);Benjamin Solnik (Google, Inc.);Subhodeep Moitra (Google, Inc.);Greg Kochanski (Google, Inc.);John Karro (Google, Inc.);D. Sculley (Google, Inc.)
+
 
 ## SIGKDD 2016
 
