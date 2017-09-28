@@ -95,3 +95,7 @@ Tim Salimans · Diederik P Kingma
 * Showing versus doing: Teaching by demonstration
 
 Mark K Ho · Michael Littman · James MacGlashan · Fiery Cushman · Joe Austerweil · Joseph L Austerweil
+
+* **Learning to learn by gradient descent by gradient descent**
+
+Marcin Andrychowicz · Misha Denil · Sergio Gómez · Matthew W Hoffman · David Pfau · Tom Schaul · Nando de Freitas
