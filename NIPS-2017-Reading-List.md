@@ -95,3 +95,10 @@ Behnam Neyshabur (Institute for Advanced Study) · Srinadh Bhojanapalli (Toyota 
 
 Can Karakus (UCLA) · Yifan Sun () · Suhas Diggavi (UCLA) · Wotao Yin (University of California, Los Angeles)
 
+* Label Distribution Learning Forests
+
+* Effective Parallelisation for Machine Learning
+
+* LightGBM: A Highly Efficient Gradient Boosting Decision Tree
+
+* Cost efficient gradient boosting
