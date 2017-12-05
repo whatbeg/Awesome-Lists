@@ -102,3 +102,11 @@ Can Karakus (UCLA) · Yifan Sun () · Suhas Diggavi (UCLA) · Wotao Yin (Univers
 * LightGBM: A Highly Efficient Gradient Boosting Decision Tree
 
 * Cost efficient gradient boosting
+
+* Sharpness, Restart and Acceleration
+
+* The Marginal Value of Adaptive Gradient Methods in Machine Learning
+
+* Adaptive Batch Size for Safe Policy Gradients
+
+* Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles
