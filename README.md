@@ -18,3 +18,4 @@ Awesome Lists of Qiu. in computer science and engineering.
 * [SIGKDD 2016-2017 Reading List](./SIGKDD16-17.md)
 * [IPDPS 2017 Reading List](./IPDPS-2017.md)
 * [ICML 2017 Reading List](./ICML-2017.md)
+* [ICLR 2018 Reading List](./ICLR2018.md)
